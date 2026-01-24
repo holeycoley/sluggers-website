@@ -87,8 +87,18 @@ SluggersWebsite/
 
 ## Deployment
 - **Domain:** sluggersbaseballhawaii.org (purchased via GoDaddy)
-- **Hosting:** TBD - recommend GitHub Pages or Netlify (both free)
-- **Status:** Need to set up hosting and point domain
+- **Hosting:** GitHub Pages
+- **Repo:** https://github.com/holeycoley/sluggers-website
+- **Live URL:** https://sluggersbaseballhawaii.org
+
+### DNS Configuration (GoDaddy)
+| Type | Name | Value |
+|------|------|-------|
+| A | @ | 185.199.108.153 |
+| A | @ | 185.199.109.153 |
+| A | @ | 185.199.110.153 |
+| A | @ | 185.199.111.153 |
+| CNAME | www | holeycoley.github.io |
 
 ## Notes
 - Team photo is from Myrtle Beach Nationals 2025 tournament (South Carolina)
