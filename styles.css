@@ -306,6 +306,10 @@ h3 {
     margin-right: 0.5rem;
 }
 
+.coach-list {
+    grid-template-columns: repeat(3, 1fr);
+}
+
 .coach-list li,
 .board-list li {
     background: var(--gray-light);

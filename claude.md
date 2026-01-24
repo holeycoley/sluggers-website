@@ -22,6 +22,7 @@ Website for Sluggers Baseball Hawai'i, a 501(c)(3) nonprofit youth baseball orga
 - Gordon Blailes
 - Brandon Oshiro
 - Wes Fujii
+- Will Stowers
 
 ### 2026 Season Roster
 | # | Player |
