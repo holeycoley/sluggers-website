@@ -56,9 +56,9 @@ Website for Sluggers Baseball Hawai'i, a 501(c)(3) nonprofit youth baseball orga
 ### File Structure
 ```
 SluggersWebsite/
-├── index.html          # Home page (photo, mission, Cooperstown info, donate)
-├── roster.html         # Team roster page
-├── about.html          # About, board of directors, contact, nonprofit info
+├── index.html          # Home page (photo, mission + blurb, Cooperstown info, donate)
+├── roster.html         # Team roster page (players in grid, coaches in 3 columns)
+├── about.html          # Board of directors, contact info, nonprofit info
 ├── styles.css          # All styling
 ├── claude.md           # This file
 └── assets/
@@ -80,11 +80,12 @@ SluggersWebsite/
 
 ## Design Decisions
 1. **Multi-page structure** - Home, Roster, About tabs to keep home page focused
-2. **Cooperstown on home page** - directly tied to donation CTA, reduces friction
-3. **Roster labeled "2026 Season"** - indicates it's current, not static (important for 501(c)(3) compliance)
-4. **501(c)(3) language** - proper tax-deductibility disclaimers included
-5. **No baseball stitching** - removed per user preference
-6. **Wave animation** - subtle Hawaiian flair without being over the top
+2. **Mission statement on home page** - featured quote style with supporting blurb paragraphs
+3. **Cooperstown on home page** - directly tied to donation CTA, reduces friction
+4. **Roster labeled "2026 Season"** - indicates it's current, not static (important for 501(c)(3) compliance)
+5. **501(c)(3) language** - proper tax-deductibility disclaimers included
+6. **No baseball stitching** - removed per user preference
+7. **Wave animation** - subtle Hawaiian flair without being over the top
 
 ## Deployment
 - **Domain:** sluggersbaseballhawaii.org (purchased via GoDaddy)
