@@ -22,7 +22,6 @@ Website for Sluggers Baseball Hawai'i, a 501(c)(3) nonprofit youth baseball orga
 - Gordon Blailes
 - Brandon Oshiro
 - Wes Fujii
-- Will Stowers
 
 ### 2026 Season Roster
 | # | Player |
@@ -44,14 +43,17 @@ Website for Sluggers Baseball Hawai'i, a 501(c)(3) nonprofit youth baseball orga
 
 ## Fundraising
 - **PayPal Giving Fund:** https://www.paypal.com/us/fundraiser/charity/4696960
-- **Current Campaign:** Cooperstown 2026 trip
+- **Current Campaign:** Cooperstown Dreams Park 2026 (starts June 18, 2026)
+
+## Social Media
+- **Instagram:** https://www.instagram.com/sluggersbaseball808/
 
 ## Technical Details
 
 ### Stack
-- Static HTML/CSS (no framework)
+- Static HTML/CSS
 - Google Fonts (Montserrat)
-- No JavaScript required
+- Vanilla JavaScript (countdown timer only)
 
 ### File Structure
 ```
@@ -60,7 +62,8 @@ SluggersWebsite/
 ├── roster.html         # Team roster page (players in grid, coaches in 3 columns)
 ├── about.html          # Board of directors, contact info, nonprofit info
 ├── styles.css          # All styling
-├── claude.md           # This file
+├── countdown.js        # Live countdown to Cooperstown (June 18, 2026)
+├── CLAUDE.md           # This file
 └── assets/
     └── images/
         ├── logo.jpeg       # Team logo (navy blue & silver, Hawaiian islands)
