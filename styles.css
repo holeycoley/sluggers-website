@@ -450,6 +450,16 @@ footer a:hover {
     color: var(--white);
 }
 
+.instagram-icon,
+.email-icon {
+    width: 16px !important;
+    height: 16px !important;
+    max-width: 16px;
+    max-height: 16px;
+    vertical-align: -3px;
+    margin-right: 5px;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     header h1 {
