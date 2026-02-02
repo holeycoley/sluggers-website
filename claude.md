@@ -16,7 +16,7 @@ Website for Sluggers Baseball Hawai'i, a 501(c)(3) nonprofit youth baseball orga
 - Secretary: Nicole Altman
 
 ### Coaching Staff
-- Reagan Medeiros
+- Regan Medeiros
 - Royce Rapozo
 - Shannon Rapozo
 - Gordon Blailes
