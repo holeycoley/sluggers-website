@@ -81,6 +81,9 @@ SluggersWebsite/
 ### Mission Statement
 > "Building character through baseball—one player, one game, one moment at a time."
 
+### Team Slogan
+**#BAYBT** - Be At Your Best Today
+
 ## Design Decisions
 1. **Multi-page structure** - Home, Roster, About tabs to keep home page focused
 2. **Mission statement on home page** - featured quote style with supporting blurb paragraphs
