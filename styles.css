@@ -194,7 +194,7 @@ h3 {
 
 /* Slogan */
 .slogan {
-    font-size: 4rem;
+    font-size: 6rem;
     font-weight: 700;
     color: var(--navy);
     text-align: center;
@@ -520,7 +520,7 @@ footer a:hover {
     }
 
     .slogan {
-        font-size: 2.75rem;
+        font-size: 3.75rem;
         letter-spacing: 3px;
     }
 }
