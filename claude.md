@@ -80,6 +80,8 @@ SluggersWebsite/
   - Hover effects on logo, nav, donate button, player cards
   - #BAYBT slogan with wave animation on hover (letters bounce in sequence)
   - Favicon (team logo in browser tab)
+  - Open Graph meta tags for social sharing previews
+  - Footer icons: Instagram (gradient colors), email (envelope)
   - Responsive design for mobile
 
 ### Mission Statement
