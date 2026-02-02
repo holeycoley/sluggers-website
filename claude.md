@@ -66,8 +66,10 @@ SluggersWebsite/
 ├── CLAUDE.md           # This file
 └── assets/
     └── images/
-        ├── logo.jpeg       # Team logo (navy blue & silver, Hawaiian islands)
-        └── team-photo.jpg  # Team photo from Myrtle Beach Nationals
+        ├── logo.jpeg            # Team logo (navy blue & silver, Hawaiian islands)
+        ├── team-photo.jpg       # Team photo from Myrtle Beach Nationals
+        ├── favicon.png          # Browser tab icon (32x32)
+        └── apple-touch-icon.png # iOS home screen icon (180x180)
 ```
 
 ### Design
@@ -76,6 +78,8 @@ SluggersWebsite/
 - **Features:**
   - Animated wave before footer (Hawaiian/ocean theme)
   - Hover effects on logo, nav, donate button, player cards
+  - #BAYBT slogan with wave animation on hover (letters bounce in sequence)
+  - Favicon (team logo in browser tab)
   - Responsive design for mobile
 
 ### Mission Statement
